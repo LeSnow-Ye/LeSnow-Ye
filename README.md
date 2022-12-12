@@ -1,4 +1,4 @@
-### 🤔 欢迎访问一个总是不放假的屑程序猿的主页
+### 🤔 欢迎访问一个屑程序猿的主页
 ### 🤔 Welcome to a noob programmer's homepage
 
 ![](https://github-readme-stats.vercel.app/api?username=LeSnow-Ye&show_icons=true)
